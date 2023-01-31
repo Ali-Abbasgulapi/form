@@ -1,0 +1,48 @@
+.heading{
+     border-radius: 20px;
+    font-family:'roboto',sans-serif;
+    margin-top: 100px;
+    left: 400px;
+    height: 300px;
+    padding-top: 100px ;
+    background: grey;
+    position: absolute;
+    padding: 20px 10px;
+}
+.heading h1{
+    color: white;
+    margin-left: 90px;
+    margin-top: 10px;
+    color: blue;
+
+}
+.heading label{
+    color:white;
+    font-size: 20px;
+    padding: 10px 5px;
+
+
+}
+.heading input{
+height: 30px;
+border-radius: 7px;
+outline: none;
+margin-top: 5px;
+background: bisque);
+color: honeydew;
+
+}
+.heading button{
+  margin-left: 100px;
+  margin-top: 20px;
+   border-radius: 4px;
+   outline: none;
+   height: 40px;
+   width: 70px;
+   border: none;
+}
+.heading button:hover{
+    box-shadow: 0 -1px 5px 4px yellow;
+    background-color: green;
+    color: white;
+}
